@@ -30,7 +30,7 @@ public class About extends JFrame implements ActionListener{
 		l2.setBounds(50,180,70,70);
 		add(l2);
 		
-		JLabel l3 =new JLabel("<html>All Rights Reserved<br>Notepad is a word processing program <br>which allows changing of text in computer file,<br> Notepad is a simple text editor for basic text editing programs<br>which enables computer users to create documents.</html>");
+		JLabel l3 =new JLabel("<html>All Rights Reserved<br>Notepad is the word processing program <br>which allows changing of text in computer file,<br> Notepad is a simple text editor for basic text editing programs<br>which enables computer users to create documents.</html>");
 		l3.setBounds(150,130,500,300);
 		l3.setFont(new Font("SAN_SERIF",Font.PLAIN,18));
 		add(l3);
